@@ -130,7 +130,7 @@ evaluate.addEventListener("click", function () {
   if (decimal.length >= 7) {
     displayCalculation.textContent = Number(
       displayCalculation.textContent
-    ).toFixed(6);
+    ).toFixed(2);
   }
 
   calcResult.textContent = displayCalculation.textContent;
