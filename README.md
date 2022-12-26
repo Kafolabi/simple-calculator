@@ -1,2 +1,4 @@
 # simple-calculator
-Simple calculator. Not suitable for screens below 500px(mainly mobile). Simple calculator that handles one control at a time
+A simple calculator web app that implements basic functions such as
+                addition, subtraction, multiplication and division using HTML,
+                CSS and vanilla JS
